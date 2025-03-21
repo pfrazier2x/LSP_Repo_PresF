@@ -1,5 +1,10 @@
 package org.howard.edu.lsp.midterm.question3;
 
+/**
+ * Preston Frazier
+ * @param args
+ */
+
 public class VotingMachineTest {
     public static void main(String[] args) {
         VotingMachine vm = new VotingMachine();

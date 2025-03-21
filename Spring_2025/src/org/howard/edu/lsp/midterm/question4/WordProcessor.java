@@ -4,7 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WordProcessor {
-    private String sentence;
+	
+	/**
+	 * Preston Frazier
+	 * @param args
+	 */
+	
+	private String sentence;
+    
 
     // Constructor
     public WordProcessor(String sentence) {

@@ -3,6 +3,11 @@ package org.howard.edu.lsp.midterm.question3;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Preston Frazier
+ * @param args
+ */
+
 public class VotingMachine {
     private Map<String, Integer> votes;
 

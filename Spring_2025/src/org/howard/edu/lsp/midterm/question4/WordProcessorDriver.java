@@ -3,7 +3,13 @@ package org.howard.edu.lsp.midterm.question4;
 import java.util.List;
 
 public class WordProcessorDriver {
-    public static void main(String[] args) {
+	
+	/**
+	 * Preston Frazier
+	 * @param args
+	 */
+	
+	public static void main(String[] args) {
         // Test case 1: Sentence with single longest word
         WordProcessor wp1 = new WordProcessor("This is a test with amazing results, amazing achievements");
         List<String> longestWords1 = wp1.findLongestWords();
