@@ -1,5 +1,8 @@
 package org.howard.edu.lsp.midterm.question5;
-
+/**
+	 * Preston Frazier
+	 * @param args
+	 */
 public class StreamingServiceDriver {
     public static void main(String[] args) {
         // Creating instances of different media types
